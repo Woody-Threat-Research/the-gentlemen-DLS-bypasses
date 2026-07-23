@@ -1,5 +1,5 @@
 # the-gentlemen-DLS-bypasses
-Bypasses broken bot and CAPTCHA checks on The Gentlemen DLS
+Bypasses the broken bot-detection script and fixes the CAPTCHA check on The Gentlemen DLS
 
 ## Usage
 
